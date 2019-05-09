@@ -1,0 +1,9 @@
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\bin\Release\FullTrust.exe.config
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\bin\Release\FullTrust.exe
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\bin\Release\FullTrust.pdb
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\obj\Release\FullTrust.csprojAssemblyReference.cache
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\obj\Release\FullTrust.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\obj\Release\FullTrust.csproj.CopyComplete
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\obj\Release\FullTrust.exe
+C:\Users\Tommy\Downloads\EECS377\UWP-FullTrust-master\UWP-FullTrust-master\UWP_FullTrust_1\FullTrust\obj\Release\FullTrust.pdb
